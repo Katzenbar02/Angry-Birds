@@ -4,7 +4,6 @@ The player controlls a bird in the sky and has to either knock the boxes over th
 
 I created this game to introduce me in C# and game development.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/ne2MNBu-9_4)
 
